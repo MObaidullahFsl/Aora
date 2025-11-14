@@ -40,7 +40,7 @@ It allows users to sign up, log in, search for videos, watch content, and upload
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Aora.git
+git clone https://github.com/MObaidullahFsl/Aora.git
 cd Aora
 ```
 
@@ -63,7 +63,7 @@ npx expo start
 
 ---
 
-## ⚡ Future Plans
+##  Future Plans
 
 * Hosting on a public domain
 * Push notifications for new videos
