@@ -51,7 +51,7 @@ npm install
 ```
 
 3. Configure Appwrite:
-   Copy your Appwrite endpoint and project ID into a `.env` file.
+   Copy your Appwrite endpoint and project ID into a `.env` file
 
 4. Start the Expo development server:
 
