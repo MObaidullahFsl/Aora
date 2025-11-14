@@ -19,11 +19,11 @@ It allows users to sign up, log in, search for videos, watch content, and upload
 ## Screenshots
 
 
-![Welcome Screen](screenshots/1.png)
-![Login Screen](screenshots/2.png)
-![Video Feed](screenshots/3.png)
-![User Account](screenshots/4.png)
-![Upload Video](screenshots/5.png)
+![Welcome Screen](screenshots/1.jpg)
+![Login Screen](screenshots/2.jpg)
+![Video Feed](screenshots/3.jpg)
+![User Account](screenshots/4.jpg)
+![Upload Video](screenshots/5.jpg)
 
 ---
 
